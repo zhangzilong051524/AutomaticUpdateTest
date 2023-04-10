@@ -4,7 +4,7 @@
       "open-url": "",
       "latest-version": "1.0",
       "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "1.测试",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
       "mandatory": true
     },
     "osx": {
