@@ -5,7 +5,7 @@
       "latest-version": "1.0",
       "download-url": "https://raw.githubusercontent.com/zhangzilong051524/AutomaticUpdateTest/main/download/config.zip",
       "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
+      "mandatory": false
     },
     "osx": {
       "open-url": "",
